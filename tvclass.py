@@ -1,11 +1,3 @@
-#n= int(input(""))
-#ns=int(input(""))
-#for i in range(1,ns+1):
- #   print(n)
-#a=int(input(""))
-#n=int(input(""))
-#s=a**n
-#print(s)
 class TV:
     def __init__(self,brand):
         self.brand=brand
